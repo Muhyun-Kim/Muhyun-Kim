@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Muhyun. Welcome to my page!! 👋
 
 <!--
 **Muhyun-Kim/Muhyun-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
