@@ -2,9 +2,11 @@
 
 
 ### Skills
-- JavaScript [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://myportfolio.com)
-- React [![React](https://img.shields.io/badge/-React-blue)](https://myportfolio.com)
-- Next.js [![Next.js](https://img.shields.io/badge/-Next.js-black)](https://myportfolio.com)
+- JavaScript
+- TypeScript 
+- React
+- Next.js
+- tailwind css
 
 
 <!--
