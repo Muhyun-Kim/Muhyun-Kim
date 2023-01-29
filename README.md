@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:00e1ff,100:ffffff&text=Kim's%20GitHub%20Porfile&fontSize=45&fontColor=00e1ff&fontAlign=70&fontAlignY=30&rotate=8)
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
-
-
-
 ## Skills
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
