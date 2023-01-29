@@ -8,9 +8,7 @@
 
 ## Project
 
-#### cocktailapp
-
-#### https://cocktail-app-seven.vercel.app/
+<h3><a href="https://cocktail-app-seven.vercel.app">cocktail app</h3>
 
 </div>
 <!--
