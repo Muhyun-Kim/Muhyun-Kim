@@ -1,7 +1,7 @@
-# I'm Muhyun. Welcome to my page!! 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:00e1ff,100:ffffff&text=Welcom&fontColor=00e1ff&fontAlign=70&fontAlignY=40&animation=scaleIn)
+
 
 ## Skills
-
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
