@@ -9,7 +9,13 @@
 
 
 ## Skills
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+html
+css
+javascript
+typscript
+react
+firebase
+tailwindcss
 
 ## Project
 <h3><a href="https://github.com/Muhyun-Kim/cocktail_app">drinker</h3>
