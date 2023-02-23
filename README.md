@@ -18,7 +18,7 @@ firebase
 tailwindcss
 
 ## Project
- <h3><a href="https://muhyun-kim.github.io/">drinker app</h3>
+ <h3><a href="https://muhyun-kim.github.io/drinker_app/">drinker app</h3>
 <h3><a href="https://github.com/Muhyun-Kim/drinker_app">drinker sourcecode</h3>
  
 </div>
