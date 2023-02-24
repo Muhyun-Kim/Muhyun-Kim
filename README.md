@@ -5,11 +5,10 @@
 ## About Me
 
 <h3 align="center">開発エンジニアを準備しているインフラエンジニア</h3>
- 現在インフラエンジニアとして働いています
 
 
 ## Skills
-html
+ <img src="[{BadgeURLHere}](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" /
 css
 javascript
 typscript
