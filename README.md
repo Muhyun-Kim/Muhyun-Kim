@@ -20,7 +20,7 @@
 
 ## Project
  <h3><a href="https://muhyun-kim.github.io/kim_resume/#/">Home Page</h3>
- <h3><a href="https://muhyun-kim.github.io/drinker_app/">drinker app</h3>
-<h3><a href="https://github.com/Muhyun-Kim/drinker_app">drinker sourcecode</h3>
+ <h3><a href="https://apps.apple.com/jp/app/pair-schedule/id6448741321">Pair Schedule</h3>
+ <h3><a href="https://github.com/Muhyun-Kim/couple_share_schedule">Pair schedule source code</h3>
  
 </div>
