@@ -1,6 +1,5 @@
 # Muhyun Kim
 
-<div align="left">
 
 ## About Me
 
@@ -28,8 +27,21 @@
 
 <br/>
 
- <h4><a href="https://muhyun-kim.github.io/kim_resume/#/">Home Page</h4>
- <h4><a href="https://apps.apple.com/jp/app/pair-schedule/id6448741321">Pair Schedule</h4>
- <h4><a href="https://github.com/Muhyun-Kim/couple_share_schedule">Pair schedule source code</h4>
- 
-</div>
+- [Pair Schedule] - ペアでスケジュールを共有するモバイルアプリ (Flutter)
+- [Home Page] - Kim MuhyunのホームページのSPA (React, tailwindCSS)
+
+ <br/>
+
+## Source code
+
+<br/>
+
+- [Pair Schedule]
+
+
+[//]: # 
+
+    
+   [Home Page]: <https://muhyun-kim.github.io/kim_resume/#/>
+   [Pair Schedule]: <https://apps.apple.com/jp/app/pair-schedule/id6448741321>
+   [Pair Schedule source code]: <https://github.com/Muhyun-Kim/couple_share_schedule>
