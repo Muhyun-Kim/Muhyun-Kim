@@ -1,9 +1,8 @@
 # Muhyun Kim
 
-
 ## About Me
 
-#### Flutterエンジニアを準備しています。
+#### Flutter エンジニアを準備しています。
 
 <br/>
 
@@ -26,9 +25,18 @@
 ## Project
 
 <br/>
+ペアスケジュール
 
-- [Pair Schedule] - ペアでスケジュールを共有するモバイルアプリ (Flutter)
-- [Home Page] - Kim MuhyunのホームページのSPA (React, tailwindCSS)
+<br/>
+
+- ペアでスケジュールを共有するモバイルアプリ (Flutter, Firebase)
+- [Pair Schedule ios]
+- [Pair Schedule android]
+
+ホームページ
+
+- Kim Muhyun のホームページの SPA (React, tailwindCSS)
+- [Home Page]
 
  <br/>
 
@@ -38,10 +46,8 @@
 
 - [Pair Schedule]
 
-
-[//]: # 
-
-    
-   [Home Page]: <https://muhyun-kim.github.io/kim_resume/#/>
-   [Pair Schedule]: <https://apps.apple.com/jp/app/pair-schedule/id6448741321>
-   [Pair Schedule source code]: <https://github.com/Muhyun-Kim/couple_share_schedule>
+[//]: #
+[Home Page]: https://muhyun-kim.github.io/kim_resume/#/
+[Pair Schedule ios]: https://apps.apple.com/jp/app/pair-schedule/id6448741321
+[Pair Schedule android]: https://play.google.com/store/apps/details?id=com.muhyun.coupleShareSchedule
+[Pair Schedule source code]: https://github.com/Muhyun-Kim/couple_share_schedule
